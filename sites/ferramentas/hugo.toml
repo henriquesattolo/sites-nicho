@@ -1,0 +1,26 @@
+# Domínio definitivo: trocar quando registrar (ex.: https://bancadacerta.com.br/)
+baseURL = "https://example.com/"
+languageCode = "pt-br"
+title = "Bancada Certa"
+theme = "base"
+themesDir = "../../themes"
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  tagline = "Guias honestos para escolher ferramentas"
+  description = "Comparativos e guias de compra de ferramentas para casa e oficina, com especificações conferidas na fonte."
+  accentColor = "#d9480f"
+  disclosure = "Alguns links deste site são de afiliado: podemos receber uma comissão quando você compra por eles, sem custo extra para você."
+
+[[menus.main]]
+  name = "Guias"
+  url = "/guias/"
+  weight = 1
+[[menus.main]]
+  name = "Sobre"
+  url = "/sobre/"
+  weight = 2
+
+[sitemap]
+  changefreq = "weekly"

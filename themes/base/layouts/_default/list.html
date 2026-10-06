@@ -1,0 +1,12 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+<ul class="cards">
+  {{ range .Pages.ByLastmod.Reverse }}
+  <li class="card">
+    <a href="{{ .RelPermalink }}"><h2>{{ .Title }}</h2></a>
+    <p>{{ .Description | default .Summary }}</p>
+  </li>
+  {{ end }}
+</ul>
+{{ end }}

@@ -1,0 +1,6 @@
+# Catálogo de produtos usado pelo shortcode {{< produto id="..." >}}
+# Cada produto: nome, selo (opcional), resumo, specs [{k, v}], pros, contras,
+# ofertas [{loja, link, pagina}].
+#   link   = link de AFILIADO (é o que vira botão). Deixe "" até ter um.
+#   pagina = página normal do produto na loja, como referência para gerar o link de afiliado.
+{}

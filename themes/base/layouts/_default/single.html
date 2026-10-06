@@ -1,0 +1,8 @@
+{{ define "main" }}
+<article class="post">
+  <h1>{{ .Title }}</h1>
+  {{ if .Date }}<p class="meta">Atualizado em {{ (.Lastmod | default .Date).Format "02/01/2006" }}</p>{{ end }}
+  {{ if eq .Section "guias" }}<p class="disclosure-inline">Este guia contém links de afiliado: se você comprar por eles, o site pode receber uma comissão, sem custo extra para você.</p>{{ end }}
+  {{ .Content }}
+</article>
+{{ end }}

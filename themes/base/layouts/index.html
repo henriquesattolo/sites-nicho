@@ -1,0 +1,20 @@
+{{ define "main" }}
+<section class="hero">
+  <h1>{{ .Site.Params.tagline }}</h1>
+  {{ .Content }}
+</section>
+<h2>Guias mais recentes</h2>
+{{ $guias := where .Site.RegularPages "Section" "guias" }}
+{{ if $guias }}
+<ul class="cards">
+  {{ range first 12 $guias.ByLastmod.Reverse }}
+  <li class="card">
+    <a href="{{ .RelPermalink }}"><h3>{{ .Title }}</h3></a>
+    <p>{{ .Description | default .Summary }}</p>
+  </li>
+  {{ end }}
+</ul>
+{{ else }}
+<p>Os primeiros guias estão a caminho.</p>
+{{ end }}
+{{ end }}

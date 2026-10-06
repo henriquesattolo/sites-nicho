@@ -1,0 +1,23 @@
+{{- /* Uso: {{< produto id="bosch-gsb-120-li" >}}  — dados em data/produtos.yaml */ -}}
+{{- $id := .Get "id" -}}
+{{- $p := index .Site.Data.produtos $id -}}
+{{- if not $p -}}{{- errorf "produto %q não encontrado em data/produtos.yaml (%s)" $id .Position -}}{{- end -}}
+<div class="produto">
+  <div class="produto-head">
+    <h3>{{ $p.nome }}</h3>
+    {{ with $p.selo }}<span class="selo">{{ . }}</span>{{ end }}
+  </div>
+  {{ with $p.resumo }}<p>{{ . | markdownify }}</p>{{ end }}
+  {{ with $p.specs }}
+  <table class="specs">
+    {{ range . }}<tr><th>{{ .k }}</th><td>{{ .v }}</td></tr>{{ end }}
+  </table>
+  {{ end }}
+  <div class="pc">
+    {{ with $p.pros }}<div><strong>Pontos fortes</strong><ul>{{ range . }}<li>{{ . }}</li>{{ end }}</ul></div>{{ end }}
+    {{ with $p.contras }}<div><strong>Pontos de atenção</strong><ul>{{ range . }}<li>{{ . }}</li>{{ end }}</ul></div>{{ end }}
+  </div>
+  {{ range $p.ofertas }}
+    {{ if .link }}<a class="btn" href="{{ .link }}" target="_blank" rel="sponsored nofollow noopener">Ver preço na {{ .loja }}</a>{{ end }}
+  {{ end }}
+</div>
