@@ -3,4 +3,95 @@
 # ofertas [{loja, link, pagina}].
 #   link   = link de AFILIADO (é o que vira botão). Deixe "" até ter um.
 #   pagina = página normal do produto na loja, como referência para gerar o link de afiliado.
-{}
+
+black-decker-bcd712vhd:
+  nome: "Black+Decker BCD712VHD 12V Max"
+  selo: "Mais em conta"
+  resumo: "Kit de entrada para quem quer só montar móveis, pendurar quadros e fazer furos leves. Vem com bateria de 1,5 Ah, carregador bivolt e 17 acessórios."
+  specs:
+    - { k: "Tensão", v: "12V Max" }
+    - { k: "Mandril", v: "3/8\" (10 mm)" }
+    - { k: "Função impacto", v: "Sim" }
+    - { k: "Bateria inclusa", v: "1 × 1,5 Ah" }
+    - { k: "Torque máximo", v: "Não confirmado no site do fabricante" }
+  pros:
+    - "Menor investimento entre os modelos do guia"
+    - "Já vem com kit de acessórios"
+  contras:
+    - "Bateria de 1,5 Ah dura menos em trabalhos longos"
+    - "Fabricante não destaca o torque, o que dificulta comparar"
+  ofertas:
+    - loja: "Loja do Mecânico"
+      link: ""
+      pagina: "https://www.lojadomecanico.com.br/produto/621581/21/223/parafusadeira-furadeira-de-impacto-38-pol-12v-max-com-bateria-15ah-e-carregador-bivolt--17-acessorios-black--decker-bcd712vhd-br"
+
+wap-bpfi-12k4:
+  nome: "WAP BPFI 12K4"
+  selo: "Custo-benefício"
+  resumo: "Tem números de torque e rotação no mesmo patamar de modelos mais caros e vem com maleta e 13 acessórios. É a mais pesada do guia."
+  specs:
+    - { k: "Tensão", v: "12V" }
+    - { k: "Torque máximo", v: "30 Nm" }
+    - { k: "Rotação", v: "0–400 / 0–1.500 rpm" }
+    - { k: "Impactos por minuto", v: "0–6.000 / 0–22.000" }
+    - { k: "Mandril", v: "3/8\" (10 mm), aperto rápido" }
+    - { k: "Ajuste de torque", v: "18 níveis" }
+    - { k: "Peso", v: "1,8 kg" }
+  pros:
+    - "Mesmo torque máximo (30 Nm) da Bosch e da Makita do guia"
+    - "Duas velocidades, boa para furar e para parafusar"
+    - "Vem com maleta e 13 acessórios"
+  contras:
+    - "1,8 kg pesa em trabalho acima da cabeça"
+    - "Rede de assistência menor que a das marcas globais"
+  ofertas:
+    - loja: "Loja"
+      link: ""
+      pagina: ""
+
+bosch-gsb-120-li:
+  nome: "Bosch GSB 120-LI Professional"
+  selo: "Melhor equilíbrio"
+  resumo: "Linha profissional da Bosch em formato compacto. É o modelo mais leve do guia e atende de montagem de móveis a furos em parede."
+  specs:
+    - { k: "Tensão", v: "12V" }
+    - { k: "Torque máximo", v: "30 Nm (duro) / 14 Nm (macio)" }
+    - { k: "Rotação", v: "0–400 / 0–1.500 rpm" }
+    - { k: "Impactos por minuto", v: "22.500" }
+    - { k: "Mandril", v: "0,8–10 mm" }
+    - { k: "Peso", v: "0,9 kg (sem bateria)" }
+  pros:
+    - "Leve e compacta, cansa menos"
+    - "Proteção eletrônica de célula na bateria"
+    - "Vendida em vários kits (1 ou 2 baterias, com acessórios)"
+  contras:
+    - "Custa mais que as opções de entrada"
+    - "Confira se o kit inclui bateria: há versão vendida sem bateria e carregador"
+  ofertas:
+    - loja: "Loja do Mecânico"
+      link: ""
+      pagina: "https://www.lojadomecanico.com.br/produto/130305/21/223/parafusadeira-furadeira-de-impacto-gsb120-li-38-pol-12v-com-bateria-20ah-carregador-bivolt-e-maleta-bosch-06019g81e1-000"
+
+makita-hp333d:
+  nome: "Makita HP333D 12V CXT"
+  selo: "Mais completa"
+  resumo: "Tem a maior rotação e a maior frequência de impacto do guia. Com as capacidades de perfuração publicadas pelo fabricante, é a escolha para quem fura com mais frequência."
+  specs:
+    - { k: "Tensão", v: "12V Max CXT" }
+    - { k: "Torque máximo", v: "30 Nm (duro) / 14 Nm (macio)" }
+    - { k: "Rotação", v: "0–450 / 0–1.700 rpm" }
+    - { k: "Impactos por minuto", v: "0–6.750 / 0–25.500" }
+    - { k: "Mandril", v: "10 mm (3/8\")" }
+    - { k: "Furo máx. em madeira / aço / alvenaria", v: "21 mm / 10 mm / 8 mm" }
+    - { k: "Peso", v: "1,1–1,3 kg (conforme bateria)" }
+  pros:
+    - "Maior rotação e frequência de impacto do comparativo"
+    - "Fabricante publica capacidades de furo por material"
+    - "Bateria CXT compatível com outras ferramentas 12V da Makita"
+  contras:
+    - "Recursos a mais que quem só monta móveis não vai aproveitar"
+    - "Kits com bateria de 1,5 Ah duram menos que os de 2,0 Ah"
+  ofertas:
+    - loja: "Telhanorte"
+      link: ""
+      pagina: "https://www.telhanorte.com.br/furadeira-parafusadeira-de-impacto-cxt-12v-c-bateria-de-1-5ah-makita-1740474/p"
