@@ -1,5 +1,5 @@
-# Domínio definitivo: trocar quando registrar (ex.: https://bancadacerta.com.br/)
-baseURL = "https://example.com/"
+# Endereço público do site. Trocar quando registrar um domínio próprio.
+baseURL = "https://bancada-certa.pages.dev/"
 languageCode = "pt-br"
 title = "Bancada Certa"
 theme = "base"
