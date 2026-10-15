@@ -95,3 +95,94 @@ makita-hp333d:
     - loja: "Loja do Mecânico"
       link: "https://www.lojadomecanico.com.br/produto/127477/21/223/parafusadeirafuradeira-de-impacto-a-bateria-12v-litio-com-carregador-2-baterias-e-maleta-makita-hp333dwye/69139?utm_campaign=afiliado-9Pwl3rwvK4feaggxaFzQ8w==&utm_source=afiliado&utm_medium=site"
       pagina: "https://www.lojadomecanico.com.br/produto/127477/21/223/parafusadeirafuradeira-de-impacto-a-bateria-12v-litio-com-carregador-2-baterias-e-maleta-makita-hp333dwye"
+
+bosch-gsb-13-re:
+  nome: "Bosch GSB 13 RE Professional"
+  selo: "Mais leve"
+  resumo: "Furadeira de impacto de 1/2\" da linha profissional da Bosch. É a mais leve dos modelos de 13 mm do guia e tem a maior rotação e frequência de impactos publicadas."
+  specs:
+    - { k: "Potência", v: "750 W" }
+    - { k: "Rotação em vazio", v: "3.800 rpm" }
+    - { k: "Impactos por minuto", v: "0–57.000" }
+    - { k: "Mandril", v: "1,5–13 mm" }
+    - { k: "Furo máx. em concreto / aço / madeira", v: "13 mm / 10 mm / 25 mm" }
+    - { k: "Furo máx. em tijolo", v: "15 mm" }
+    - { k: "Velocidade variável", v: "Sim" }
+    - { k: "Peso", v: "1,7 kg" }
+  pros:
+    - "Mais leve entre os modelos de 1/2\" do guia"
+    - "Maior rotação e frequência de impactos publicadas do comparativo"
+    - "Vendida em kits com maleta ou com jogo de brocas, conforme o código"
+  contras:
+    - "Capacidade em concreto (13 mm) menor que a da Makita e da DeWalt"
+    - "A versão de caixa de papelão (0 601 2B8 0D0) não traz maleta"
+  ofertas:
+    - loja: "Loja do Mecânico"
+      link: "https://www.lojadomecanico.com.br/produto/620815/21/221/furadeira-de-impacto-gsb13-re-12-pol-750w-127v-bosch-06012b80d0-000/69139?utm_campaign=afiliado-9Pwl3rwvK4feaggxaFzQ8w==&utm_source=afiliado&utm_medium=site"
+      pagina: "https://www.lojadomecanico.com.br/produto/620815/21/221/furadeira-de-impacto-gsb13-re-12-pol-750w-127v-bosch-06012b80d0-000"
+
+makita-hp1640:
+  nome: "Makita HP1640"
+  selo: "Mais capacidade"
+  resumo: "Furadeira de impacto de 1/2\" com a maior capacidade de furo publicada do guia em concreto e em madeira. Tem velocidade variável, reversão e vem com punho lateral e limitador de profundidade."
+  specs:
+    - { k: "Potência", v: "760 W" }
+    - { k: "Rotação", v: "0–2.800 rpm" }
+    - { k: "Impactos por minuto", v: "0–44.800" }
+    - { k: "Mandril", v: "13 mm (1/2\")" }
+    - { k: "Furo máx. em concreto / aço / madeira", v: "16 mm / 13 mm / 30 mm" }
+    - { k: "Velocidade variável / reversão", v: "Sim / Sim" }
+    - { k: "Peso", v: "2 kg" }
+  pros:
+    - "Maior capacidade publicada em concreto (16 mm) e madeira (30 mm) do guia"
+    - "Reversão e velocidade variável"
+    - "Punho lateral e limitador de profundidade inclusos"
+  contras:
+    - "Mais pesada que a Bosch (2 kg)"
+    - "Rotação máxima menor que a da Bosch"
+  ofertas:
+    - loja: "Loja do Mecânico"
+      link: "https://www.lojadomecanico.com.br/produto/3687/21/221/furadeira-de-impacto-12-pol-760w-110v-makita-hp1640/69139?utm_campaign=afiliado-9Pwl3rwvK4feaggxaFzQ8w==&utm_source=afiliado&utm_medium=site"
+      pagina: "https://www.lojadomecanico.com.br/produto/3687/21/221/furadeira-de-impacto-12-pol-760w-110v-makita-hp1640"
+
+dewalt-dwd502:
+  nome: "DeWalt DWD502"
+  selo: "Alternativa 1/2\""
+  resumo: "Furadeira de impacto de 1/2\" com mandril de chave de 13 mm. O manual do fabricante publica capacidades de furo, mas não encontramos a ficha completa no site da DeWalt Brasil."
+  specs:
+    - { k: "Mandril", v: "13 mm (1/2\"), com chave" }
+    - { k: "Furo máx. em alvenaria / metal / madeira", v: "16 mm / 13 mm / 25 mm" }
+    - { k: "Potência", v: "Não confirmado pelo fabricante (lojas anunciam 650 W e 710 W)" }
+    - { k: "Rotação e impactos por minuto", v: "Não confirmado pelo fabricante" }
+    - { k: "Peso", v: "Não confirmado pelo fabricante" }
+  pros:
+    - "Capacidade de 16 mm em alvenaria, igual à da Makita"
+    - "Mandril de 13 mm aceita brocas maiores"
+  contras:
+    - "Ficha técnica incompleta nas fontes oficiais consultadas"
+    - "Anúncios divergem na potência; confira o modelo e a tensão antes de comprar"
+  ofertas:
+    - loja: "Loja do Mecânico"
+      link: "https://www.lojadomecanico.com.br/produto/19017/21/221/furadeira-de-impacto-12-pol-710w-110v-dewalt-dwd502/69139?utm_campaign=afiliado-9Pwl3rwvK4feaggxaFzQ8w==&utm_source=afiliado&utm_medium=site"
+      pagina: "https://www.lojadomecanico.com.br/produto/19017/21/221/furadeira-de-impacto-12-pol-710w-110v-dewalt-dwd502"
+
+black-decker-tm500:
+  nome: "Black+Decker TM500"
+  selo: "Mais em conta"
+  resumo: "Opção de entrada com mandril de 3/8\" para furos de bucha ocasionais e pequenos reparos. Não é a melhor escolha para reforma com muitos furos em concreto."
+  specs:
+    - { k: "Potência", v: "560 W" }
+    - { k: "Mandril", v: "3/8\" (10 mm)" }
+    - { k: "Rotação e impactos por minuto", v: "Não confirmado pelo fabricante" }
+    - { k: "Capacidade de furo", v: "Não confirmado pelo fabricante" }
+    - { k: "Peso", v: "Não confirmado pelo fabricante" }
+  pros:
+    - "Menor investimento entre os modelos do guia"
+    - "Atende furos de bucha comuns (6 a 10 mm)"
+  contras:
+    - "Mandril de 3/8\" limita o tamanho das brocas"
+    - "Fabricante não publica a ficha completa no site brasileiro"
+  ofertas:
+    - loja: "Loja do Mecânico"
+      link: "https://www.lojadomecanico.com.br/produto/99563/21/221/furadeira-de-impacto-de-38-pol-560w-110v-linha-standard-blackdecker-tm500/69139?utm_campaign=afiliado-9Pwl3rwvK4feaggxaFzQ8w==&utm_source=afiliado&utm_medium=site"
+      pagina: "https://www.lojadomecanico.com.br/produto/99563/21/221/furadeira-de-impacto-de-38-pol-560w-110v-linha-standard-blackdecker-tm500"
