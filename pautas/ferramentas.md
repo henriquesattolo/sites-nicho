@@ -68,3 +68,78 @@ Já publicados: melhor parafusadeira/furadeira 12V.
 
 - Confirmar todas as especificações no site/manual do fabricante antes de escrever; onde só indiquei o site, localizar a ficha do modelo.
 - Cadastrar os produtos em `sites/ferramentas/data/produtos.yaml` com `link: ""` e listar no PR os links de afiliado que o Henrique precisa gerar.
+
+## Pauta 2026-10-19
+
+> Observação: como na pauta anterior, os links da Loja do Mecânico são páginas de produto (não links de afiliado), com 110V e 220V listadas quando encontradas. Potências e capacidades entre parênteses vêm dos títulos dos produtos na loja ou da ficha do fabricante e **precisam ser confirmadas no fabricante** antes de ir para o texto. Nada de preço no texto.
+
+### 1. Melhor serra circular 7.1/4"
+
+- **Título sugerido:** Melhor serra circular 7.1/4": 5 modelos para reforma, deck e marcenaria em casa
+- **Por que tem demanda:** é a primeira serra "de verdade" de quem faz reforma, deck ou móveis — corta compensado, MDF e caibros com uma ferramenta de mão; a Loja do Mecânico mantém uma página de [mais vendidos de serra circular](https://www.lojadomecanico.com.br/mais-vendidos/serra_circular). Complementa o guia de tico-tico (cortes retos x recortes). Todos os modelos estão na Loja do Mecânico.
+- **Modelos:**
+  1. Bosch GKS 150 (1.500 W, 184 mm, com disco e guia paralelo) — [110V](https://www.lojadomecanico.com.br/produto/120926/21/224/serra-circular-gks-150-1500w-110v-com-disco-e-guia-paralelo-bosch-06016b30d0-000) · [220V](https://www.lojadomecanico.com.br/produto/120927/21/224/Serra-Circular-GKS-150-1500W-220V-com-Disco-e-Guia-Paralelo) · [127V com bolsa](https://www.lojadomecanico.com.br/produto/624003/21/224/serra-circular-1500w-127v-com-bolsa-gks-150-bosch-06016b30d2-000)
+  2. Makita HS7010 (1.600 W, 185 mm) — [110V](https://www.lojadomecanico.com.br/produto/120605/21/224/serra-circular-185mm-1600w-110v-makita-hs7010) · [220V](https://www.lojadomecanico.com.br/produto/120606/21/224/serra-circular-185mm-1600w-220v-makita-hs7010)
+  3. DeWalt DWE575 (1.800 W, 184 mm) — [110V](https://www.lojadomecanico.com.br/produto/97251/21/224/serra-circular-714-pol-1800w-110v-dewalt-dwe575) · [220V](https://www.lojadomecanico.com.br/produto/97250/21/224/serra-circular-714-pol-1800w-220v-dewalt-dwe575)
+  4. DeWalt DWE560 (1.400 W) — [220V](https://www.lojadomecanico.com.br/produto/84413/21/224/serra-circular-de-714-pol-1400-w-220-v-dewalt-dwe560br) (110V não encontrada na Loja do Mecânico)
+  5. Bosch GKS 130 (1.300 W, 184 mm, opção de entrada) — [220V](https://www.lojadomecanico.com.br/produto/603926/21/224/serra-circular-184mm-1300w-220v-gks130-com-disco-de-corte-bosch-06016c30d0-000) (110V aparece na listagem da loja, mas a URL não foi localizada)
+  - Fora da lista: Black+Decker CS1004 — não vendido na Loja do Mecânico; Makita 5007N é de 7" (não 7.1/4").
+- **Fontes de especificação:** [Bosch GKS 150 — Bosch Professional Brasil](https://www.bosch-professional.com/br/pt/products/gks-150-06016B30D0); [Makita HS7010 — Makita Brasil](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=933); [DeWalt DWE575 — DeWalt Brasil](https://www.dewalt.com.br/pt-br/produto/dwe575-br/serra-circular-7-14-184mm-1800w-com-disco-widea-127v-eixo-58-5200-rpm); DWE560: [categoria de serras circulares DeWalt Brasil](https://www.dewalt.com.br/pt-br/produtos/ferramentas-eletricas/serras/serras-circulares) (localizar a ficha); GKS 130: ficha brasileira não encontrada (só a [Bosch Argentina](https://www.bosch-professional.com/ar/es/products/gks-130-06016C30H0)) — confirmar no manual. Incluir seção de segurança com base nos manuais.
+
+### 2. Melhor lixadeira orbital e roto-orbital
+
+- **Título sugerido:** Melhor lixadeira orbital ou roto-orbital para reformar móveis e marcenaria em casa
+- **Por que tem demanda:** reforma de móveis e DIY em alta, com uma dúvida clara que rende guia útil: orbital de 1/4 de folha (acabamento) ou roto-orbital de 125 mm (remove material mais rápido). Busca muito específica por modelo e voltagem. Todos os modelos estão na Loja do Mecânico.
+- **Modelos:**
+  1. Bosch GEX 125-1 AE (roto-orbital, 250 W, 125 mm, com coletor de pó) — [110V](https://www.lojadomecanico.com.br/produto/97897/21/227/lixadeira-roto-orbital-gex-125-1ae-250w-110v-com-coletor-de-po-e-disco-de-lixa-125mm-bosch-06013875d0-000/64184) (220V não encontrada na Loja do Mecânico)
+  2. Bosch GSS 140 (orbital 1/4 de folha, 220 W) — [127V](https://www.lojadomecanico.com.br/produto/601515/21/227/lixadeira-orbital-14pol-220w-127v-gss-140-1-a-bosch-06012a80e2) · [220V](https://www.lojadomecanico.com.br/produto/601516/21/227/lixadeira-orbital-14pol-220w-220v-gss-140-bosch-06012a80e1)
+  3. Makita BO4556 (orbital 1/4 de folha, 200 W) — [110V](https://www.lojadomecanico.com.br/produto/3676/21/227/lixadeira-orbital--200-watts-110-v-makita-bo4556) · [220V](https://www.lojadomecanico.com.br/produto/4104/21/227/lixadeira-orbital--200-watts-220-v-makita-bo4556)
+  4. Makita BO5030 (roto-orbital, 300 W, 125 mm) — [110V](https://www.lojadomecanico.com.br/produto/3681/21/227/lixadeira-roto-orbital-300-w-110v-para-disco-de-5-pol-makita-bo5030) · [220V](https://www.lojadomecanico.com.br/produto/4102/21/227/lixadeira-roto-orbital-300-w-220v-para-disco-de-5-pol-makita-bo5030)
+  5. DeWalt DWE6421 (roto-orbital, 275 W, 125 mm) — [220V](https://www.lojadomecanico.com.br/produto/116971/21/227/lixadeira-roto-orbital-5-pol-127mm-275w-220v-dewalt-dwe6421) (127V não vendida na Loja do Mecânico)
+  6. Black+Decker BS200 (orbital 1/4 de folha, 200 W, entrada) — [110V](https://www.lojadomecanico.com.br/produto/182091/21/227/lixadeira-orbital-14-de-lixa-200w-110v-blackdecker-bs200) · [220V](https://www.lojadomecanico.com.br/produto/182092/21/227/lixadeira-orbital-14-de-lixa-200w-220v-blackdecker-bs200)
+- **Fontes de especificação:** [Bosch GEX 125-1 AE 127V](https://www.bosch-professional.com/br/pt/products/gex-125-1-ae-06013875D0) e [220V](https://www.bosch-professional.com/br/pt/products/gex-125-1-ae-06013875E0); [Bosch GSS 140 220V](https://www.bosch-professional.com/br/pt/products/gss-140-06012A80E1) e [127V](https://www.bosch-professional.com/br/pt/products/gss-140-06012A80E2) (a loja chama o 06012A80E2 de "GSS 140-1 A" — conferir); Makita Brasil (makita.com.br, BO4556 e BO5030), DeWalt Brasil (dewalt.com.br, DWE6421) e Black+Decker Brasil (blackanddecker.com.br, BS200) — fichas ainda não localizadas.
+
+### 3. Melhor aspirador de pó e água
+
+- **Título sugerido:** Melhor aspirador de pó e água para casa, garagem e obra: 5 modelos de 10 a 40 litros
+- **Por que tem demanda:** a mesma máquina aspira pó, entulho fino e líquidos (vazamento, chuva, carro, sobra de obra); busca forte o ano todo, com pico em reforma e na época de chuvas (que começa agora). Todos os modelos estão na Loja do Mecânico.
+- **Modelos:**
+  1. WAP GTW Inox 20 (20 L, 1.600 W, função sopro) — [110V](https://www.lojadomecanico.com.br/produto/101082/22/739/aspirador-de-agua-e-po-20-litros-1600w-110v-wap-gtw-inox-20) · [220V](https://www.lojadomecanico.com.br/produto/101083/22/739/aspirador-de-agua-e-po-20-litros-1600w-220v--wap-gtw-inox-20)
+  2. Kärcher NT 2000 (20 L inox, 1.400 W) — [110V](https://www.lojadomecanico.com.br/produto/584783/22/739/aspirador-de-po-e-agua-nt-2000-20l-170-mbar-1400w-110v-karcher-14287100) · [220V](https://www.lojadomecanico.com.br/produto/584807/22/739/aspirador-de-po-e-agua-nt-2000-20l-170-mbar-1400w-220v-karcher-14287100) (Kärcher WD 3: não vendido na Loja do Mecânico)
+  3. Electrolux GT 3000 Pro / GT30N (20 L, 1.300 W) — [110V](https://www.lojadomecanico.com.br/produto/84368/22/739/aspirador-de-po-e-agua-electrolux-profissional-gt-3000-1300w-110v-gt30n-electrolux-3011aebr410) · [220V](https://www.lojadomecanico.com.br/produto/97489/22/739/aspirador-de-po-e-agua-electrolux-profissional-gt-3000-1300w-220v-electrolux-gt30n)
+  4. Vonder APV 1240 (40 L, 1.200 W, para obra e oficina) — [110V](https://www.lojadomecanico.com.br/produto/100611/22/739/aspirador-de-agua-e-po-40-litros-1200w-110v-vonder-apv1240) · [220V](https://www.lojadomecanico.com.br/produto/100612/22/739/aspirador-de-agua-e-po-40-litros-1200w-220v-vonder-apv1240)
+  5. WAP GTW 10 (10 L, 1.400 W, compacto/entrada) — [110V](https://www.lojadomecanico.com.br/produto/119269/22/739/aspirador-de-po-e-agua-10l-1400w-110v-wap-gtw10) · [220V](https://www.lojadomecanico.com.br/produto/119270/22/739/aspirador-de-po-e-agua-10l-1400w-220v-wap-gtw10)
+- **Fontes de especificação:** [WAP GTW 20](https://wap.ind.br/produtos/aspirador-de-po-e-agua-gtw20/) e [GTW Inox 20 — loja WAP](https://loja.wap.ind.br/aspirador-de-po/aspirador-de-po-barril/gtw-inox-20); [WAP GTW 10](https://loja.wap.ind.br/aspirador-de-po-e-agua-1400w-wap-gtw-10/p); [Kärcher NT 2000 — Kärcher Brasil](https://www.karcher.com.br/br/profissional/aspiradores/aspiradores-de-solidos-e-liquidos/aspiradores-de-solidos-e-liquidos/nt-2000-220v-br-14287110.html) (o código na loja é 1.428-710.0; a ficha 220V usa 1.428-711.0 — conferir); [Electrolux GT30N](https://loja.electrolux.com.br/aspirador-de-agua-e-po-profissional-gt-3000-gt30n-electrolux/p); [Vonder APV 1240 127V](https://www.vonder.com.br/produto/aspirador_de_p_e_lquidos_1200_w_40_litros_apv_1240_127_v_vonder/7937) e [220V](https://www.vonder.com.br/produto/aspirador_de_p_e_lquidos_1200_w_40_litros_220_v_apv_1240_vonder/6951).
+
+### 4. Melhor multímetro digital para casa
+
+- **Título sugerido:** Melhor multímetro digital para casa e elétrica residencial: do básico ao True RMS
+- **Por que tem demanda:** muita gente quer testar tomada, disjuntor, pilha e chuveiro sem chamar eletricista e não sabe se basta um modelo básico ou se precisa de True RMS e CAT III; ticket baixo e boa conversão. A Loja do Mecânico tem página de [mais vendidos de multímetro](https://www.lojadomecanico.com.br/mais-vendidos/multimetro). Todos os modelos estão na Loja do Mecânico. Guia deve ter seção de segurança (categoria CAT, limites de medição).
+- **Modelos:**
+  1. Minipa ET-1002 (linha hobby, entrada; CAT não informada pelo fabricante) — [página](https://www.lojadomecanico.com.br/produto/2441/3/47/multimetro-digital-hobby-com-teste-de-continuidade-minipa-et1002)
+  2. Minipa ET-2082E (True RMS, CAT III 600 V) — [página](https://www.lojadomecanico.com.br/produto/121321/3/47/multimetro-digital-3-12-digitos-true-rms-minipa-et-2082e)
+  3. Minipa ET-1649 (True RMS, detector de tensão sem contato, CAT III 600 V) — [página](https://www.lojadomecanico.com.br/produto/89924/3/47/multimetro-digital-com-detector-de-tensao-sem-contato-minipa-et-1649)
+  4. Hikari HM-2030 (True RMS) — [página](https://www.lojadomecanico.com.br/produto/97729/3/47/multimetro-digital-true-rms-hm-2030-hikari-hm-2030)
+  5. Fluke 107 (compacto profissional, CAT III 600 V) — [página](https://www.lojadomecanico.com.br/produto/95390/3/47/multimetro-digital--107-fluke-4367953)
+  - Fora da lista: Fluke 101 e Minipa ET-2042 — não vendidos na Loja do Mecânico.
+- **Fontes de especificação:** fichas técnicas Minipa (hospedadas pela distribuidora C4M): [ET-1002](https://c4m.com.br/wp-content/uploads/2024/12/ET-1002-Datasheet-C4M.pdf), [ET-2082E](https://c4m.com.br/wp-content/uploads/2024/12/ET-2082E-Datasheet-C4M.pdf), [ET-1649](https://c4m.com.br/wp-content/uploads/2024/12/ET-1649-Datasheet-C4M.pdf) (preferir o site minipa.com.br se tiver a mesma ficha); [Fluke 107](https://fluke.com/pt-pt/produto/testes-eletricos/multimetros-digitais/fluke-107); Hikari HM-2030: ficha oficial não encontrada (só anúncio de varejo citando CAT IV 600 V) — confirmar no manual/site da Hikari ou omitir a CAT.
+
+### 5. Melhor jogo de ferramentas com maleta
+
+- **Título sugerido:** Melhor jogo de ferramentas para casa: kits com maleta de 110 a 180 peças comparados
+- **Por que tem demanda:** quase toda casa precisa de um kit para pequenos reparos, montagem de móveis e manutenção básica; muita gente busca uma maleta "completa" em vez de peças avulsas, e é presente comum de fim de ano. A Loja do Mecânico tem página de [mais vendidos de jogo de ferramentas](https://www.lojadomecanico.com.br/mais-vendidos/jogo_ferramenta). Todos os kits estão na Loja do Mecânico. Composição de cada kit precisa vir da ficha do fabricante.
+- **Modelos:**
+  1. Tramontina 125 peças com maleta (cód. 46000407) — [página](https://www.lojadomecanico.com.br/produto/621608/2/301/jogo-de-ferramentas-com-125-pecas-e-maleta-tramontina-46000407)
+  2. Tramontina Master 150 peças (cód. 43650150) — [página](https://www.lojadomecanico.com.br/produto/619878/2/301/jogo-de-ferramentas-master-com-150-pecas-tramontina-43650150)
+  3. Vonder CR-V 110 peças com maleta (cód. 3599110105) — [página](https://www.lojadomecanico.com.br/produto/136933/2/301/jogo-de-ferramentas-cr-v-110-pecas-com-maleta-vonder-3599110105)
+  4. Stanley 110 peças com maleta (cód. STMT81243-LA) — [página](https://www.lojadomecanico.com.br/produto/623308/2/301/jogo-de-ferramentas-com-110-pecas-e-maleta-stanley-stmt81243-la)
+  5. Stanley 141 peças com maleta de alumínio (cód. STMT98109-LA) — [página](https://www.lojadomecanico.com.br/produto/621675/2/301/jogo-de-ferramentas-para-manutencao-com-141-pecas-e-maleta-de-aluminio-stanley-stmt98109-la)
+  6. Robust by Gedore Oficina Master 178 peças (cód. SOLID-5000R) — [página](https://www.lojadomecanico.com.br/produto/10314/2/301/jogo-de-ferramentas-oficina-master-com-chaves-combinadas-com-catraca---178-pecas-robust-by-gedore-solid-5000r)
+  - Fora da lista: Gedore Red 100 peças — página de produto não localizada na Loja do Mecânico; Black+Decker — sem kit manual equivalente na loja.
+- **Fontes de especificação:** [Tramontina Master 150 peças](https://www.tramontina.com.br/jogo-de-ferramentas-150-pecas-tramontina-master/43650150.html) (ficha do 46000407 não localizada no site da Tramontina); [Vonder — jogo 110 peças](https://www.vonder.com.br/produto/jogo_de_ferramentas_com_110_peas_vonder/2970) (confirmar se corresponde ao cód. 3599110105) e [artigo Vonder sobre kits de 110 peças](https://www.vonder.com.br/artigos/jogos-de-ferramentas-manuais-com-110-pecas); Stanley Brasil (stanleytools.com.br, STMT81243-LA e STMT98109-LA) e [catálogo Gedore](https://catalogo.gedore.com.br/) (SOLID-5000R) — fichas ainda não localizadas.
+
+### Pendências para o redator
+
+- Confirmar potências, capacidades, categorias CAT e composição dos kits no site/manual do fabricante; o que não for confirmado, omitir ou escrever "não informado pelo fabricante".
+- Onde só uma voltagem foi encontrada na Loja do Mecânico, conferir se a outra existe antes de cadastrar.
+- Cadastrar os produtos em `sites/ferramentas/data/produtos.yaml` com `link: ""` e listar no PR os links de afiliado que o Henrique precisa gerar.
