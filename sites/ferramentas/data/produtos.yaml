@@ -4,6 +4,96 @@
 #   link   = link de AFILIADO (é o que vira botão). Deixe "" até ter um.
 #   pagina = página normal do produto na loja, como referência para gerar o link de afiliado.
 
+black-decker-g720:
+  nome: "Black+Decker G720"
+  selo: "Mais em conta"
+  resumo: "Opção de entrada para cortes curtos, limpeza de ferrugem e desbaste ocasional. O manual do fabricante confirma potência, rotação e rosca padrão M14."
+  specs:
+    - { k: "Potência", v: "820 W" }
+    - { k: "Rotação em vazio", v: "11.000 rpm" }
+    - { k: "Disco", v: "115 mm (4.1/2\")" }
+    - { k: "Rosca do eixo", v: "M14" }
+    - { k: "Cabo", v: "2 m" }
+    - { k: "Tensão", v: "127 V (BR) ou 220 V (B2)" }
+    - { k: "Peso", v: "Não confirmado pelo fabricante" }
+  pros:
+    - "Menor investimento entre os modelos do guia"
+    - "Rosca M14, compatível com os discos mais comuns"
+  contras:
+    - "Peso não informado no manual"
+    - "Há versões com outros códigos (como G720X) e outra potência; confira o código antes de comprar"
+  ofertas:
+    - loja: "Loja do Mecânico"
+      link: "https://www.lojadomecanico.com.br/produto/1937/21/222/esmerilhadeira-angular-com-empunhadura-lateral-de-412-pol-820w-110v-black-decker-g720/69139?utm_campaign=afiliado-9Pwl3rwvK4feaggxaFzQ8w==&utm_source=afiliado&utm_medium=site"
+      pagina: "https://www.lojadomecanico.com.br/produto/1937/21/222/esmerilhadeira-angular-com-empunhadura-lateral-de-412-pol-820w-110v-black-decker-g720"
+
+dewalt-dwe4010:
+  nome: "DeWalt DWE4010"
+  selo: "Compacta"
+  resumo: "Esmerilhadeira compacta de 4.1/2\" com trava do eixo, punho lateral antivibração e desligamento automático quando as escovas se desgastam. A potência publicada muda conforme o mercado."
+  specs:
+    - { k: "Potência", v: "Não confirmado pelo fabricante para a versão brasileira (manual latino-americano: 750 W; europeu: 730 W; lojas: 700 W)" }
+    - { k: "Rotação em vazio", v: "12.000 rpm (manual latino-americano) / 11.000 rpm (manual europeu)" }
+    - { k: "Disco", v: "115 mm (4.1/2\")" }
+    - { k: "Rosca do eixo", v: "M14" }
+    - { k: "Peso", v: "1,8 kg (manual europeu)" }
+  pros:
+    - "Leve (1,8 kg na versão europeia)"
+    - "Desliga sozinha quando as escovas de carvão se desgastam, protegendo o motor"
+    - "Punho lateral antivibração incluso"
+  contras:
+    - "Números divergem entre manuais e lojas; confira a plaqueta"
+    - "Troca de escovas só em assistência autorizada, segundo o manual"
+  ofertas:
+    - loja: "Loja do Mecânico"
+      link: "https://www.lojadomecanico.com.br/produto/95310/21/222/esmerilhadeira-412-pol-700w-220v-dewalt-dwe4010/69139?utm_campaign=afiliado-9Pwl3rwvK4feaggxaFzQ8w==&utm_source=afiliado&utm_medium=site"
+      pagina: "https://www.lojadomecanico.com.br/produto/95310/21/222/esmerilhadeira-412-pol-700w-220v-dewalt-dwe4010"
+
+makita-9557hng:
+  nome: "Makita 9557HNG"
+  selo: "Alternativa à Bosch"
+  resumo: "Esmerilhadeira de 4.1/2\" da Makita com trava do eixo e dupla isolação. O manual publica disco, rosca, rotação e peso, mas não a potência."
+  specs:
+    - { k: "Potência", v: "840 W (anunciada pelas lojas; não confirmado no manual do fabricante)" }
+    - { k: "Rotação em vazio", v: "10.000 rpm (manual do fabricante)" }
+    - { k: "Disco", v: "115 mm (4.1/2\")" }
+    - { k: "Rosca do eixo", v: "M14 ou 5/8\", conforme o país" }
+    - { k: "Comprimento total", v: "271 mm" }
+    - { k: "Peso", v: "1,7–2,2 kg (conforme acessórios)" }
+  pros:
+    - "Manual traz ficha de peso e dimensões"
+    - "Dupla isolação, sem necessidade de fio terra"
+  contras:
+    - "Rotação publicada no manual (10.000 rpm) abaixo das concorrentes"
+    - "Potência não aparece no manual consultado"
+  ofertas:
+    - loja: "Loja do Mecânico"
+      link: "https://www.lojadomecanico.com.br/produto/104033/21/222/esmerilhadeira-angular-profissional-412-pol-840w-110v-makita-9557hng/69139?utm_campaign=afiliado-9Pwl3rwvK4feaggxaFzQ8w==&utm_source=afiliado&utm_medium=site"
+      pagina: "https://www.lojadomecanico.com.br/produto/104033/21/222/esmerilhadeira-angular-profissional-412-pol-840w-110v-makita-9557hng"
+
+bosch-gws-850:
+  nome: "Bosch GWS 850 Professional"
+  selo: "Melhor equilíbrio"
+  resumo: "A de maior potência do guia, com ficha técnica completa no site brasileiro da Bosch. Vem com punho auxiliar, protetor do disco e interruptor com trava."
+  specs:
+    - { k: "Potência", v: "850 W" }
+    - { k: "Rotação em vazio", v: "11.000 rpm" }
+    - { k: "Disco", v: "115 mm (4.1/2\")" }
+    - { k: "Rosca do eixo", v: "M14" }
+    - { k: "Peso", v: "2 kg" }
+    - { k: "Tensão", v: "127 V (06013775D0) ou 220 V (06013775E0)" }
+  pros:
+    - "Maior potência do comparativo"
+    - "Ficha completa publicada pelo fabricante no Brasil"
+    - "Acompanha punho auxiliar, protetor e chave de pinos"
+  contras:
+    - "Vem em caixa de papelão, sem maleta nem discos"
+    - "Um pouco mais pesada que a DeWalt"
+  ofertas:
+    - loja: "Loja do Mecânico"
+      link: "https://www.lojadomecanico.com.br/produto/122276/21/222/esmerilhadeira-angular-gws-850-412-pol-850w-110v--bosch-06013775d0-000/69139?utm_campaign=afiliado-9Pwl3rwvK4feaggxaFzQ8w==&utm_source=afiliado&utm_medium=site"
+      pagina: "https://www.lojadomecanico.com.br/produto/122276/21/222/esmerilhadeira-angular-gws-850-412-pol-850w-110v--bosch-06013775d0-000"
+
 black-decker-bcd712vhd:
   nome: "Black+Decker BCD712VHD 12V Max"
   selo: "Mais em conta"
